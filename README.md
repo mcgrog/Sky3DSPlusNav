@@ -4,10 +4,10 @@
 Quick Powershell Script for Navigating Sky3DS+ Library with simple outgrid view displaying rom details that allows marking your current rom and calculating the sortest path to a rom of your choosing via left and right buttons on your sky3ds+
 (Windows 10 will work, it may run on older versions of windows, i dont have anything with a wmf <5.1 anymore to test it on)
 
-#File 0)	00_EXECUTE_Sky3ds+RomNavigator.lnk
+File 0)	00_EXECUTE_Sky3ds+RomNavigator.lnk
  - Runs File 1 from explorer via double click.
 
-#File 1)	01_Sky3ds+RomNavigator.ps1
+File 1)	01_Sky3ds+RomNavigator.ps1
  - On first run or any time a data refresh is required;from the console write R then press enter. (this bring up a menu selection of connected fat32 drives to scan for roms, upon selection the file 02_Games.xml is created, from here you can now remove your sd card and insert it into the sky3ds)
  - On subsequent runs just press enter from the console. (this reads from the generated 02_Games.xml data file and displayed your library including per rom info and config.cfg information from the time of generation)
  
@@ -30,7 +30,7 @@ Quick Powershell Script for Navigating Sky3DS+ Library with simple outgrid view 
 
  - Q then Enter to Quit from the console screen
 
-#File 2)	02_Games.xml
+File 2)	02_Games.xml
  - Generated whenever the sd card library is scanned.
  - File is called after a library scan or on first launch if no game data exists in memory.
 
