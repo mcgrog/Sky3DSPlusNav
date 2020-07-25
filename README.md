@@ -1,5 +1,7 @@
 # Sky3DSPlusNav
 	By Mcgrog [2020]
+![Console Screenshot](https://preview.redd.it/mz5awo8jzwc51.png?width=489&format=png&auto=webp&s=38c4f973c920076bb0594059f8a1a7c2aad6df1e)
+![Navigator Screenshot](https://preview.redd.it/yf6ufxtzzwc51.png?width=1426&format=png&auto=webp&s=689151f69b8840b2a36ec19865eb01ed913f87c8)
 
 Download Here: https://github.com/mcgrog/Sky3DSPlusNav/releases/download/v1.2/Sky3DSPlusNav.zip
 
