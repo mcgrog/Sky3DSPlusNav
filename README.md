@@ -21,7 +21,7 @@ Quick Powershell Script for Navigating Sky3DS+ Library with simple outgrid view 
 		4. Click Ok or Press Enter.
 			(selecting multiple will just result in the first rom being selected)
 	
-		Shortest path will then be calculated using loopback logic and directions displayed in the console window.
+	Shortest path will then be calculated using loopback logic and directions displayed in the console window.
 
 	Example:
 		If you have 50 roms, and you want to get from position 45 to position 5,
