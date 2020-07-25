@@ -1,6 +1,8 @@
 # Sky3DSPlusNav
 	By Mcgrog [2020]
 
+Download Here: https://github.com/mcgrog/Sky3DSPlusNav/releases/download/v1.2/Sky3DSPlusNav.zip
+
 Quick Powershell Script for Navigating Sky3DS+ Library with simple outgrid view displaying rom details that allows marking your current rom and calculating the sortest path to a rom of your choosing via left and right buttons on your sky3ds+
 (Windows 10 will work, it may run on older versions of windows, i dont have anything with a wmf <5.1 anymore to test it on)
 
